@@ -1,5 +1,5 @@
 ---
-title: PLL Recognition Guide
+title: PLL recognition guide
 date: 2021-01-04
 lastUpdated: 2021-01-07
 tags: ["cubing", "puzzles", "cfop", "pll", "rubiks-cube", "3x3"]
@@ -125,7 +125,7 @@ The main feature of the **E** perm is that it has no features. You can look arou
 | H    | ![H](https://raw.githubusercontent.com/rsapkf/rupiks/main/pll/svg/H.svg)   | <ul><li>4 headlights</li></ul>                                                                                                                  | <ul><li>(M2 U M2) U2 (M2 U M2)</li></ul>                                                                                                                   | <ul><li>Easy 2-look PLL case.</li></ul>                                                                                                                                                                               |
 | Z    | ![Z](https://raw.githubusercontent.com/rsapkf/rupiks/main/pll/svg/Z.svg)   | <ul><li>4 headlights</li></ul>                                                                                                                  | <ul><li>(M2 U M2 U) (M' U2) (M2 U2 M')</li></ul>                                                                                                           | <ul><li>Easy 2-look PLL case.</li></ul>                                                                                                                                                                               |
 
-This is just a beginner's guide to PLL recognition. There are advanced techniques that can help you recognize PLL by looking at just 2 sides of the last layer. Check out the links in Further Reading section to learn more.
+This is just a beginner's guide to PLL recognition. There are advanced techniques that can help you recognize PLL by looking at just 2 sides of the last layer. Check out the links in below to learn more.
 
 #### Further reading and credits:
 

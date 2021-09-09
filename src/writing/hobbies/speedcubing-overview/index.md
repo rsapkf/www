@@ -1,5 +1,5 @@
 ---
-title: An Overview of Speedcubing (+Awesome Learning Resources)
+title: An overview of speedcubing (+Awesome learning resources)
 date: 2020-08-02
 lastUpdated: 2020-08-07
 tags: ["cubing", "puzzles", "cfop", "speedsolving", "rubiks-cube", "3x3"]
@@ -121,7 +121,7 @@ The key here is to reduce cube rotations as much as you can, increasing your TPS
 
 ---
 
-### Advanced Algorithms
+### Advanced algorithms
 
 Getting even better times requires learning a few new sets of algorithms. These sets are often used in other speedsolving methods and can be used in combination with CFOP to get faster times. You don't need to learn every algorithm in these sets to be able to use them since there are thousands - just the more common ones. Here are some of the most popular algorithms sets:
 
@@ -145,7 +145,7 @@ After solving the F2L minus one corner-edge pair, ZBLS (a.k.a. ZBF2L) can be use
 
 ---
 
-### Recommended Resources and Further Reading
+### Recommended resources and further reading
 
 - [Feliks Zemdegs](https://www.youtube.com/channel/UCQ7ASM-o1ELUbScXCKYwovA) ([CubeSkills](https://cubeskills.com/) | [YouTube](https://www.youtube.com/channel/UCPftX98kFgj-fPk3pombPIg)): CubeSkills has an extremely organized library of speedsolving tutorials and example walkthroughs from Feliks.
 - [J Perm](https://www.youtube.com/channel/UCqTVfT9JQqhA6_Hi_h_h97Q) (See [featured channels](https://www.youtube.com/c/JPerm/channels))

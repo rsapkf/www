@@ -1,5 +1,5 @@
 ---
-title: Implementing /projects Page on Gatsby Site with GitHub API
+title: Implementing /projects page on Gatsby site with GitHub API
 date: 2020-07-12
 lastUpdated: 2020-07-13
 spoiler: ""

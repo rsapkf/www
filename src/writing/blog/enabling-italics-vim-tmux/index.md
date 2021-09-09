@@ -1,5 +1,5 @@
 ---
-title: Enabling Italics in Vim and tmux
+title: Enabling italics in Vim and tmux
 date: 2020-03-17
 lastUpdated: 2020-04-07
 spoiler: ""

@@ -1,5 +1,5 @@
 ---
-title: Targeting External Links using SCSS
+title: Targeting external links using SCSS
 date: 2020-07-21
 lastUpdated: 2020-08-17
 spoiler: ""

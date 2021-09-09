@@ -1,5 +1,5 @@
 ---
-title: "TV Show: Lucifer (2016)"
+title: "TV show: Lucifer (2016)"
 date: "2020-08-17"
 lastUpdated: "2020-08-17"
 tags: ["tv-show", "tv-show-2016"]

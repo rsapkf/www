@@ -1,8 +1,8 @@
 ---
-title: A Privacy Focused Note-Taking and PKM Setup
+title: A privacy focused note-taking and PKM setup
 date: 2020-06-17
 lastUpdated: 2020-06-17
-spoiler: PKM = Personal Knowledge Management.
+spoiler: PKM = Personal knowledge management.
 tags: ["note-taking", "vim", "knowledge-base", "privacy"]
 type: blog
 slug: current-note-taking-setup

@@ -73,7 +73,7 @@ const Posts = props => {
         dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
       ></div>
       <small>
-        <i>Last Updated: {lastUpdated}</i>
+        <i>Last updated: {lastUpdated}</i>
       </small>
       <hr />
       <PostNav

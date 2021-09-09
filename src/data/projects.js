@@ -10,7 +10,7 @@ export const personalProjects = [
   {
     name: "notes",
     description:
-      "Personal notes for Vim, tmux, GNU Bash, zsh, Linux, Programming...",
+      "Personal notes for Vim, tmux, GNU Bash, Zsh, Linux, programming...",
     homepage: "https://notes.rsapkf.xyz/",
     stargazers_count: 5,
     forks_count: 0,
@@ -24,7 +24,7 @@ export const personalProjects = [
   },
   {
     name: "dotfiles",
-    description: "My Development Environment.",
+    description: "My development environment.",
     stargazers_count: 1,
     forks_count: 0,
   },
@@ -34,7 +34,7 @@ export const softwareProjects = [
   {
     name: "gnureadline-reference",
     description:
-      "Comprehensive GNU Readline Shortcuts Guide for VI + Emacs Editing Modes.",
+      "Comprehensive GNU Readline shortcuts guide for vi + Emacs editing modes.",
     homepage: "https://rsapkf.github.io/gnureadline-reference/",
     stargazers_count: 3,
     forks_count: 0,
@@ -60,13 +60,13 @@ export const softwareProjects = [
 export const miscProjects = [
   {
     name: "rupiks",
-    description: "SVG and PNG visualizations for Rubik's Cube Algs.",
+    description: "SVG and PNG visualizations for Rubik's Cube algs.",
     stargazers_count: 0,
     forks_count: 0,
   },
   {
     name: "wallpapers",
-    description: "Personal Wallpaper Collection.",
+    description: "Personal wallpaper collection.",
     stargazers_count: 0,
     forks_count: 0,
   },

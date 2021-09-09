@@ -1,8 +1,8 @@
 ---
-title: The Rabbithole Series, Part 1
+title: The rabbithole series, part 1
 date: 2019-05-20
 lastUpdated: 2019-05-25
-spoiler: How I got started with Tiling WMs.
+spoiler: How I got started with tiling window managers.
 tags: ["linux", "window-manager", "i3wm", "dwm"]
 type: blog
 slug: rabbithole-series-part-1

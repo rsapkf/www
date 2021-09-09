@@ -1,5 +1,5 @@
 ---
-title: Beginner's Guide to Digital Privacy
+title: Beginner's guide to digital privacy
 date: 2020-09-12
 lastUpdated: 2020-12-03
 spoiler: ""
@@ -83,7 +83,7 @@ _\* Slightly advanced tips_
 
   Read this post on Hacker News: [Before buying a NYT subscription, here's what it'll take to cancel it](https://news.ycombinator.com/item?id=26174269)
 
-- Make use of [Email Aliases](https://protonmail.com/support/knowledge-base/addresses-and-aliases/) or Email forwarding services:
+- Make use of [email aliases](https://protonmail.com/support/knowledge-base/addresses-and-aliases/) or email forwarding services:
 
   - [AnonAddy](https://github.com/anonaddy/anonaddy)
   - [SimpleLogin](https://github.com/simple-login/app)
@@ -183,7 +183,7 @@ _\* Slightly advanced tips_
 
 ---
 
-#### Further Reading:
+#### Further reading:
 
 This is just a list of the most popular and reliable options for getting started on digital privacy. There are comprehensive guides, articles, books and websites for more advanced tips:
 

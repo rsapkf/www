@@ -1,5 +1,5 @@
 ---
-title: Enabling Vim Mode In All Major Graphical Text Editors
+title: Enabling Vim mode in all major graphical text editors
 date: 2019-10-19
 lastUpdated: 2019-10-19
 spoiler: ""

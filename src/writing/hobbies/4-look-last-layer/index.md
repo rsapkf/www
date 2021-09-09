@@ -1,5 +1,5 @@
 ---
-title: A Definitive Guide to 4-Look Last Layer (CFOP)
+title: A definitive guide to 4-look last layer (CFOP)
 date: 2021-02-07
 lastUpdated: 2021-02-21
 tags:

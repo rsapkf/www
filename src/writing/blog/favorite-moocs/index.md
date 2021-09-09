@@ -1,5 +1,5 @@
 ---
-title: My Favorite MOOCs for CS and Math
+title: My favorite MOOCs for CS and math
 date: 2020-12-15
 lastUpdated: 2020-12-17
 spoiler: ""
@@ -16,7 +16,7 @@ _\* Some resources/books are not free_
 
 ### <u>Courses</u>
 
-#### Introductory CS and Programming:
+#### Introductory CS and programming:
 
 - [CS50](https://cs50.harvard.edu/) ([CS50 on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)) - Prof. David J. Malan.
 - [MITx's Computational Thinking using Python XSeries - edX](https://www.edx.org/xseries/mitx-computational-thinking-using-python) - Prof. Eric Grimson, Prof. John Guttag.
@@ -60,15 +60,15 @@ _\* Some resources/books are not free_
 - [MIT 18.02 Multivariable Calculus, 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) - Prof. Denis Auroux. ([MIT 18.02SC: Homework Help for Multivariable Calculus, Fall 2010](https://www.youtube.com/playlist?list=PLF07555F3CC669D01))
 - [Khan Academy Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) - Grant Sanderson, Sal Khan. ([YouTube playlist](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7))
 
-#### Linear Algebra:
+#### Linear algebra:
 
 - [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) - Prof. Gilbert Strang. ([Introduction to Linear Algebra\*](http://math.mit.edu/~gs/linearalgebra/))
 
-#### Discrete Mathematics:
+#### Discrete mathematics:
 
 - [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) - Prof. Tom Leighton, Marten can Dijk. [Lecture notes, Spring 2018](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 
-#### Differential Equations:
+#### Differential equations:
 
 - [18.03x Differential Equations XSeries - edX](https://www.edx.org/xseries/mitx-18.03x-differential-equations) - Prof. David Jerison, Prof. Arthur Mattuck, Prof. Haynes Miller.
 
@@ -84,7 +84,7 @@ _\* Some resources/books are not free_
 
   - [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform)
 
-#### Machine Learning:
+#### Machine learning:
 
 - [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning) - Andrew Ng, Stanford University.
 
@@ -101,12 +101,13 @@ _\* Some resources/books are not free_
 - [Coursera](https://coursera.org/)
 - [freeCodeCamp](https://freecodecamp.org/) (**Recommended**) / [Odin Project](https://www.theodinproject.com/)
 
-### <u>Honorable Mentions</u>
+### <u>Honorable mentions</u>
 
-The following are not MOOCs but you can find some well-structured content on frameworks, libraries, and Math that can be used as supplementary resources with the above courses:
+The following are not MOOCs but you can find some well-structured content on frameworks, libraries, and math that can be used as supplementary resources with the above courses:
 
 ##### YouTube:
 
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 - [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)

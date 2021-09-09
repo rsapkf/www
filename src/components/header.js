@@ -115,7 +115,7 @@ const Header = () => {
                         to="/puzzles"
                         style={{ borderBottom: "1px solid gray" }}
                       >
-                        Puzzle List
+                        Puzzle list
                       </Link>
                     </li>
                     <li>
@@ -131,7 +131,7 @@ const Header = () => {
                         to="/movies-tv"
                         style={{ borderBottom: "1px solid gray" }}
                       >
-                        Movies and Shows
+                        Movies and shows
                       </Link>
                     </li>
                     <li>
@@ -199,7 +199,7 @@ const Header = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <FontAwesomeIcon icon={["fas", "cube"]} /> CFOP Algs
+                        <FontAwesomeIcon icon={["fas", "cube"]} /> CFOP algs
                       </a>
                     </li>
                   </ul>

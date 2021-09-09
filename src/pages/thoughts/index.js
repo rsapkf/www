@@ -42,7 +42,7 @@ const ThoughtsPage = () => {
   return (
     <Layout>
       <SEO title="Thoughts" />
-      <h3>Thoughts and Ideas</h3>
+      <h3>Thoughts and ideas</h3>
       <span style={{ marginBottom: "0.5rem" }}>
         <Link to="/thoughts/tags">Tags</Link> |{" "}
         <Link to="/thoughts/rss.xml">RSS</Link> |{" "}
@@ -52,7 +52,7 @@ const ThoughtsPage = () => {
         Filter: <Link to="/thoughts/tags/essay">Essays</Link> |{" "}
         <Link to="/thoughts/tags/book">Books</Link> |{" "}
         <Link to="/thoughts/tags/movie">Movies</Link> |{" "}
-        <Link to="/thoughts/tags/tv-show">TV Shows</Link>
+        <Link to="/thoughts/tags/tv-show">TV shows</Link>
       </span>
       <div className={styles.container}>
         <ol className={styles.articles}>

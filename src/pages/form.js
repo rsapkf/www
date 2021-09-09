@@ -35,8 +35,8 @@ export default function Contact() {
 
   return (
     <Layout>
-      <SEO title="Contact Form" />
-      <h3>Contact Form</h3>
+      <SEO title="Contact form" />
+      <h3>Contact form</h3>
       <form
         name="contact"
         method="post"
@@ -90,11 +90,11 @@ export default function Contact() {
               required
             >
               <option value="feedback">Feedback</option>
-              <option value="bug-report">Bug Report</option>
+              <option value="bug-report">Bug report</option>
               <option value="business">Business</option>
-              <option value="open-source">Open Source</option>
+              <option value="open-source">Open source</option>
               <option value="cubing">Cubing</option>
-              <option value="hi">Say Hi</option>
+              <option value="hi">Say hi</option>
             </select>
           </label>
         </p>

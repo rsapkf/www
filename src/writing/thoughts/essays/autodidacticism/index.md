@@ -7,4 +7,4 @@ type: thoughts
 slug: autodidacticism
 ---
 
-Thoughts on Self-education.
+Thoughts on self-education.
