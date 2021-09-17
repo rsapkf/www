@@ -16,7 +16,7 @@ const Tags = ({ pageContext, data }) => {
 
   return (
     <Layout>
-      <SEO title={`#${tag} • Tags • ${capitalizeString(postType)}`} />
+      <SEO title={`#${tag} :: Tags :: ${capitalizeString(postType)}`} />
       <div>
         <h3>{tagHeader}</h3>
         <ul>

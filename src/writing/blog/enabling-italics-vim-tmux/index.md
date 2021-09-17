@@ -146,6 +146,6 @@ Also, make sure you have an italics capable font enabled. I have tested this on 
 
 ---
 
-##### Learn More:
+##### Learn more:
 
 - [tmux FAQs](https://github.com/tmux/tmux/wiki/FAQ)

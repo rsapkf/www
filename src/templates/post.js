@@ -47,7 +47,7 @@ const Posts = props => {
   return (
     <Layout>
       <SEO
-        title={`${title} • ${capitalizeString(postType)}`}
+        title={`${title} :: ${capitalizeString(postType)}`}
         // description={props.data.markdownRemark.excerpt}
         article
       />

@@ -15,7 +15,7 @@ const HobbiesTagsPage = ({
   },
 }) => (
   <Layout>
-    <SEO title="Tags • Hobbies" />
+    <SEO title="Tags :: Hobbies" />
     <div>
       <h3>Hobbies &gt;&gt; Tags</h3>
       <span className={styles.container}>

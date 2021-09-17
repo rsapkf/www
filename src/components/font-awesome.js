@@ -11,7 +11,7 @@ import {
   faAngleDown,
   faCheck,
 } from "@fortawesome/free-solid-svg-icons"
-import { faLightbulb, faClipboard } from "@fortawesome/free-regular-svg-icons"
+import { faLightbulb, faCopy } from "@fortawesome/free-regular-svg-icons"
 
 library.add(
   faLinux,
@@ -25,5 +25,5 @@ library.add(
   faAngleDown,
   faCheck,
   faLightbulb,
-  faClipboard
+  faCopy
 )

@@ -25,7 +25,7 @@ export const CopyPermalink = ({ link }) => {
 export const CopyPermalinkIcon = ({ link }) => {
   const [permalinkButtonIcon, setPermalinkButtonIcon] = useState([
     "far",
-    "clipboard",
+    "copy",
   ])
   return (
     <button
@@ -34,7 +34,7 @@ export const CopyPermalinkIcon = ({ link }) => {
       onClick={() => {
         copyToClipboard(link)
         setPermalinkButtonIcon(["fas", "check"])
-        setTimeout(() => setPermalinkButtonIcon(["far", "clipboard"]), 1500)
+        setTimeout(() => setPermalinkButtonIcon(["far", "copy"]), 1500)
       }}
     >
       <FontAwesomeIcon icon={permalinkButtonIcon} />

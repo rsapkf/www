@@ -48,13 +48,13 @@ Secondly, here are the features I'm looking for in my workflow:
 
   I have always been a [Firefox](https://www.mozilla.org/en-US/firefox/new/) user. I use [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) as my primary browser. For links that I'd rather not share with the world, I use [Firefox Sync](https://support.mozilla.org/en-US/products/firefox/sync). There are multiple folders and hierarchies with weird names that I personally use to sort my bookmarks. For example, I use it to store:
 
-  - YouTube Playlists + custom Playlists (as opposed to YouTube's "Save to Library" and "Liked videos" feature),
-  - Reddit threads / memes (as apposed to Reddit's "save" feature,
-  - IMDb links (instead of IMDb's "Lists),
-  - Twitter posts (instead of Twitter's "Likes),
+  - YouTube playlists + custom playlists (as opposed to YouTube's "Save to Library" and "Liked videos" features),
+  - Reddit threads/memes (as apposed to Reddit's "save" feature,
+  - IMDb links (instead of IMDb's "Lists"),
+  - Twitter posts (instead of Twitter's "Likes"),
   - Bookmarklets,
   - interesting Instagram profiles (e.g. [@electricpants](https://www.instagram.com/electricpants/)),
-  - Spotify / YouTube Music links
+  - Spotify/YouTube Music links
   - resources that I should check later,
   - other temporary links, tutorials to follow, etc).
 
@@ -74,7 +74,7 @@ Secondly, here are the features I'm looking for in my workflow:
 
   _Update: I have deleted Pocket and moved to Firefox for temporary links as well._
 
-  **Aside**: I do use Twitter, not for microblogging but to follow interesting accounts. Their recommendation system is pretty good for this sort of thing. As for Spotify, I hate the fact that they log your streaming history with no easy way to delete it and is so closely tied to Facebook[\*](https://youtube.com/watch?v=eAagtcAup0o&t=1072). I have deleted all my Spotify Playlists and exported the data to Firefox (using [Exportify](https://github.com/watsonbox/exportify)). I need to find a better solution for Music.
+  **Aside**: I do use Twitter, not for microblogging but to follow interesting accounts. Their recommendation system is pretty good for this sort of thing. As for Spotify, I hate the fact that they log your streaming history with no easy way to delete it and is so closely tied to Facebook[\*](https://youtube.com/watch?v=eAagtcAup0o&t=1072). I have deleted all my Spotify playlists and exported the data to Firefox (using [Exportify](https://github.com/watsonbox/exportify)). I need to find a better solution for music.
 
 ---
 
@@ -96,7 +96,7 @@ These consist of information I extract from reading (non-fiction) books, article
 
   I am learning an advanced LaTeX and a cool vim + [UltiSnips](https://github.com/sirver/UltiSnips) + LaTeX + [Inskcape](https://gitlab.com/inkscape/inkscape) workflow for Mathematics notes from [Gilles Castel](https://castel.dev/post/lecture-notes-1/) for future use.
 
-  I manage highly sensitive information like Recovery codes, Paper keys, API keys, etc with a password manager. I recommend [Bitwarden](https://github.com/bitwarden) or [KeePassXC](https://keepassxc.org/).
+  I manage highly sensitive information like recovery codes, paper keys, API keys, etc with a password manager. I recommend [Bitwarden](https://github.com/bitwarden) or [KeePassXC](https://keepassxc.org/).
 
 The other kinds of notes (well, these are what I consider to be notes) are my dotfiles and this blog. I try to document everything on my config files so I can understand what each line of configuration is doing. I store these on [GitHub](https://github.com/rsapkf/dotfiles) and use a [technique](https://news.ycombinator.com/item?id=11071754) I learned from HN to manage my config files.
 
